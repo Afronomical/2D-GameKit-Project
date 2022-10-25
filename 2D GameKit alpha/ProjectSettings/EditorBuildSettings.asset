@@ -48,9 +48,12 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/Lvl1 Assesment 1.unity
+    path: Assets/Scenes/Level_0/Lvl1 Assesment 1.unity
     guid: 6cff0512f3b670242902e4ee7e10692b
   - enabled: 1
     path: Assets/Scenes/Zone1 Assessment.unity
     guid: 36737e6901407c94d9307c5f52c6769b
+  - enabled: 1
+    path: Assets/Scenes/Level_0/Hub_Cave.unity
+    guid: f3a4c75811750d044851b74e3b1041c9
   m_configObjects: {}
