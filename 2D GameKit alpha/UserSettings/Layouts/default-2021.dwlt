@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1357
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 371}
   m_MaxSize: {x: 10000, y: 10000}
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 26329
+  controlID: 121
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 26395
+  controlID: 126
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 26396
+  controlID: 127
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -271,8 +271,8 @@ MonoBehaviour:
     y: 0
     width: 524
     height: 1307
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -526,9 +526,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 77.46489, y: -23.783672, z: -21.320639}
+    m_Target: {x: 39.95592, y: 4.8773026, z: -21.110697}
     speed: 2
-    m_Value: {x: 77.46489, y: -23.783672, z: -21.320639}
+    m_Value: {x: 39.75444, y: 4.9752035, z: -21.108381}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -579,9 +579,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 25.207792
+    m_Target: 5.375952
     speed: 2
-    m_Value: 25.207792
+    m_Value: 5.1444516
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -637,10 +637,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 323}
-      m_SelectedIDs: 32ca0100
-      m_LastClickedID: 117298
-      m_ExpandedIDs: eec2f3ff08c3f3ff3adef3ff8093f5ff6c95f5ffde95f5ff5e7ff6ff6482f6ffa887f6ff00cef6ff5eb2fcff0a64fdff2a6afdff42c9fdffd865feffdc65feff7667feff086bfeff9e6ffeffb053ffffba65ffff2c68ffff8a89ffff4e8affffa08cfffff4fffffffa10010016110100701101008013010096130100e0190100621a01003032010026330100fc3301001a340100d475010008760100a0770100a47701002a7801008a78010096780100a2780100b2910100b092010018930100fa930100a0990100be990100329e0100bc9e010092c7010098c70100acc70100c6c7010000c80100e2c8010058c901005cc901009ec90100c2c9010014ca010048ca0100
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 1e990000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 449bfffffabfffff4ed6ffff06edffff1eedffffe4faffff3c7e0000427e0000ae7e0000f07e0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -982,25 +982,27 @@ MonoBehaviour:
     m_SceneHandles: 
     m_ShowAllHits: 0
     m_SkipHidden: 0
-    m_SearchArea: 0
+    m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs
+    - Assets/2DGamekit/Art/TileMapPalettes/Tileset/16x16 Grassy Platformer Tileset/Tileset/Individual
+      Tileset
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/2DGamekit/Art/TileMapPalettes/Tileset/16x16 Grassy Platformer Tileset/Tileset/Individual
+    Tileset
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\6euleo45\Documents\GitHub\2D-GameKit-Project\2D GameKit
     alpha
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 341}
-    m_SelectedIDs: 50100100
-    m_LastClickedID: 69712
-    m_ExpandedIDs: 000000004610010048100100521001008a10010090100100ae10010080970100fa99010000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 75}
+    m_SelectedIDs: c8980000
+    m_LastClickedID: 39112
+    m_ExpandedIDs: 00000000d67c0000e47c0000ee7c0000507d0000567d0000fa98000010990000409900004499000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1028,7 +1030,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000004610010000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000d67c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1056,7 +1058,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c62300004ce900001cd10000aefd0000c87100008c9600004ee1000000730100107301001a72010080e000007ee00000fa730000cc9500005c800000b074000038ae00004aae000056af000026af00002c7f0000c07e00003cfc0000a6f9000076e9010024750000aa760000f8a20000
+    m_ExpandedInstanceIDs: c62300004ce900001cd10000aefd0000c87100008c9600004ee1000000730100107301001a72010080e000007ee00000fa730000cc9500005c800000b074000038ae00004aae000056af000026af00002c7f0000c07e00003cfc0000a6f9000076e9010024750000aa760000f8a2000022990000e698000034990000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

@@ -56,4 +56,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level_0/Hub_Cave.unity
     guid: f3a4c75811750d044851b74e3b1041c9
+  - enabled: 1
+    path: Assets/Scenes/Level_2/Snake_1.unity
+    guid: f399014cf04a5a341a92a64b0ee58be2
   m_configObjects: {}
