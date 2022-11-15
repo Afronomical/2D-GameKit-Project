@@ -51,7 +51,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Level_0/Hub 0.unity
     guid: 6cff0512f3b670242902e4ee7e10692b
   - enabled: 1
-    path: Assets/Scenes/Zone1 Assessment.unity
+    path: Assets/Scenes/Level_1/Zone1 Assessment.unity
     guid: 36737e6901407c94d9307c5f52c6769b
   - enabled: 1
     path: Assets/Scenes/Level_0/Hub_Cave.unity
@@ -59,4 +59,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level_2/Snake_1.unity
     guid: f399014cf04a5a341a92a64b0ee58be2
+  - enabled: 1
+    path: Assets/Scenes/Level_0/Portal Hub.unity
+    guid: 47c6c4ac323c7cf46b1b2b391444043e
   m_configObjects: {}
